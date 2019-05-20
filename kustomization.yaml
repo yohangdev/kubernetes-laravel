@@ -1,0 +1,3 @@
+resources:
+- deployment-laravel.yaml
+- deployment-mysql.yaml
